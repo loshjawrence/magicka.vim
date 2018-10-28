@@ -1,6 +1,6 @@
 # magicka.vim
 
-![](screenshot.jpg)
+![](magicka.jpg)
 
 The `magicka` colorscheme for Vim
 

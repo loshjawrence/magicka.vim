@@ -1,4 +1,7 @@
 # magicka.vim
+
+![](screenshot.jpg)
+
 The `magicka` colorscheme for Vim
 
 ## Installation (Windows)
@@ -12,5 +15,3 @@ Just edit your `~/_vimrc` to add:
     colorscheme magicka
 
 ---
-
-![Screenshot](https://raw.githubusercontent.com/loshjawrence/magicka.vim/master/screenshot.jpg "screenshot")

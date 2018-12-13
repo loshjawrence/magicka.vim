@@ -4,11 +4,8 @@
 
 The `magicka` colorscheme for Vim
 
-## Installation (Windows)
-   * Stick the `magicka.vim` file in your `~/vimfiles/colors` folder
-   
-## Installation (Linux/OSX)
-   * Stick the `magicka.vim` file in your `~/.vim/colors` folder.
+## Installation 
+   * Stick the `magicka.vim` file in the folder `~/vimfiles/colors` (Windows) or `~/.vim/colors` (Linux/OSX)
 
 ## Configuration
 
